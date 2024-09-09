@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='axologgle',
-    version='0.1.0',
+    version='1.0.1',
     description='Logging tools but cooler',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
